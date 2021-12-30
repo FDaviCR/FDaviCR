@@ -3,7 +3,7 @@ I am Developer.<br>
 I am studying Computer Engineering. <br>
 
 - 💻 I’m currently learning <strong>ReactJS</strong>.
-- 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, NodeJs, C#, Python</strong>.
+- 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, T-SQL, NodeJs, C#, Python, OutSystems</strong>.
 - 📫 How to reach me: davicamiloribeiro@gmail.com or ⤵️
 
 <p align="left">
@@ -19,3 +19,4 @@ I am studying Computer Engineering. <br>
 ![GitHub repo size](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub repo size](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GitHub repo size](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub repo size](https://img.shields.io/badge/-OutSystems-orange)
