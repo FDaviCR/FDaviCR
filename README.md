@@ -19,4 +19,4 @@ I am studying Computer Engineering. <br>
 ![GitHub repo size](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![GitHub repo size](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GitHub repo size](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub repo size](https://img.shields.io/badge/-OutSystems-orange)
+![GitHub repo size](https://img.shields.io/badge/OutSystems-FF0000?style=for-the-badge&logoColor=white)
