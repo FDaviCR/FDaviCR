@@ -1,10 +1,10 @@
-Hello, my name is Davi. 🙂<br>
-I am Developer. <br>
-I am studying Computer Engineering. <br>
+Oi, meu nome é Davi. 🙂<br>
+Eu sou dev. <br>
+Atualmente sou graduando em Engenharia de Computação. <br>
 
-- 💻 I’m currently learning <strong>ReactJS</strong>.
+- 💻 Estou estudando <strong>ReactJS</strong>.
 - 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, T-SQL, NodeJs, C#, Python, OutSystems</strong>.
-- 📫 How to reach me: davicamiloribeiro@gmail.com or ⤵️
+- 📫 Meus contatos: davicamiloribeiro@gmail.com or ⤵️
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fdavicr" alt="Linkedin" rel="nofollow">
