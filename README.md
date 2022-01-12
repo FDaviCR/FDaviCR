@@ -3,7 +3,7 @@ Eu sou dev. <br>
 Atualmente sou graduando em Engenharia de Computação. <br>
 
 - 💻 Estou estudando <strong>ReactJS</strong>.
-- 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, T-SQL, NodeJs, C#, Python, OutSystems</strong>.
+- 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, T-SQL, NodeJs, C#, Python, OutSystems </strong>.
 - 📫 Meus contatos: davicamiloribeiro@gmail.com or ⤵️
 
 <p align="left">
