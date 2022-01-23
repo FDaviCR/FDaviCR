@@ -1,5 +1,5 @@
 Oi, meu nome é Davi.<br>
-Eu sou dev. <br>
+Sou um dev. <br>
 Atualmente sou graduando em Engenharia de Computação. <br>
 
 - 💻 Estou estudando <strong>ReactJS</strong>.
