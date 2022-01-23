@@ -1,4 +1,4 @@
-Oi, meu nome é Davi. 🙂<br>
+Oi, meu nome é Davi.<br>
 Eu sou dev. <br>
 Atualmente sou graduando em Engenharia de Computação. <br>
 
