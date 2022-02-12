@@ -10,7 +10,7 @@ Atualmente sou graduando em Engenharia de Computação. <br>
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdavicr&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdavicr&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdavicr&layout=compact&langs_count=20&theme=dark)
 <br>
 
 ![GitHub repo size](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
