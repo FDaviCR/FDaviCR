@@ -1,4 +1,4 @@
-Oi, meu nome é Davi.👋🏽<br>
+Oi, meu nome é Davi. 👋🏽<br>
 Sou um dev. <br>
 Atualmente sou graduando em Engenharia de Computação. <br>
 
@@ -9,6 +9,7 @@ Atualmente sou graduando em Engenharia de Computação. <br>
 </a>
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdavicr&show_icons=true&theme=dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdavicr&layout=compact&langs_count=20&theme=dark)
 <br>
