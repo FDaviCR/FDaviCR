@@ -2,7 +2,7 @@ Oi, meu nome é Davi. 👋🏽<br>
 Sou um dev. <br>
 Atualmente sou graduando em Engenharia da Computação no IFCE. <br>
 
-- 💻 Estou estudando <strong>Angular e TypeScript</strong>.
+- 💻 Estou estudando <strong>React e TypeScript</strong>.
 
 - 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, T-SQL, NodeJs, C#, Python </strong>.
 - 📫 Meus contatos: davicamiloribeiro@gmail.com ou 
