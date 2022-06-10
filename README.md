@@ -1,5 +1,6 @@
 Oi, meu nome é Davi. 👋🏽<br>
 Sou um dev. <br>
+
 Atualmente sou graduando em Engenharia da Computação no IFCE. <br>
 
 - 💻 Estou estudando <strong>React e TypeScript</strong>.
