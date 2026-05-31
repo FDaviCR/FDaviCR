@@ -1,15 +1,8 @@
-Oi, meu nome é Davi. 👋🏽<br>
-Sou um dev. <br>
-
-Atualmente sou desenvolvedor ServiceNow <br>
+Desenvolvedor ServiceNow <br>
 
 - 🚀 Skills: <strong>HTML5, CSS3, JavaScript, SQL, T-SQL, NodeJs, Python, MySQL, TypeScript, ServiceNow, React Native</strong>.
 - 📫 E-mail: davicamiloribeiro@gmail.com
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdavicr&show_icons=true&theme=dark)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdavicr&layout=compact&langs_count=20&theme=dark)
 <br>
 
 ![GitHub repo size](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
